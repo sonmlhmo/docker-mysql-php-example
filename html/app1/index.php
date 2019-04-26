@@ -11,7 +11,8 @@ if (isset($_POST['search'])) {
     <!-- [SEARCH FORM] -->
     <form method="post">
       <h1>
-        SEARCH FOR USERS
+        SEARCH FOR USERS 
+         This is DevOps Training
       </h1>
       <input type="text" name="search" required/>
       <input type="submit" value="Search"/>
